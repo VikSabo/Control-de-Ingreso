@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "126013647270",
+    "project_id": "proyectoiimoviles"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126013647270:android:42883f57d0119aa0",
+        "android_client_info": {
+          "package_name": "com.example.usuario.proyectoiimoviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCvHv_IHf5oWxQjKCrKxSFmb95XFGZRls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-79211846-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

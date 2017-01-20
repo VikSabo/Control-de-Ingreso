@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\password_image.png",
+        "source": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\src\\main\\res\\mipmap-xxhdpi\\password_image.png"
+    },
+    {
+        "merged": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\id_image.png",
+        "source": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\src\\main\\res\\mipmap-xxhdpi\\id_image.png"
+    },
+    {
+        "merged": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\phone_image.png",
+        "source": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\src\\main\\res\\mipmap-xxhdpi\\phone_image.png"
+    },
+    {
+        "merged": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\email_image.png",
+        "source": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\src\\main\\res\\mipmap-xxhdpi\\email_image.png"
+    },
+    {
+        "merged": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\user_image.png",
+        "source": "C:\\Users\\vsabo\\Desktop\\ProyectoIIMoviles\\app\\src\\main\\res\\mipmap-xxhdpi\\user_image.png"
+    }
+]
